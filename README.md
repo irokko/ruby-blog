@@ -1,4 +1,4 @@
-## Project Rick and Morty Quiz
+## Ruby Blog
 ABOUT
 This project is showing a demo of a blog app using Ruby on Rails
 
